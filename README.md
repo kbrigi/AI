@@ -29,7 +29,11 @@ After each email classification, it's data will be added to the trained dataset/
 **Files**
 
 ssl folder: 1000 txt emalis (input for classification)
+
 enron6 folder: ham(1500) and spam(4500) already classified emails for learning 
+
 test.txt: contains the name of the test files
+
 train.txt: contains the name of the train files
+
 stopwords.txt: for filtering common words, so they don't affect the classification
